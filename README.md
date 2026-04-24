@@ -172,3 +172,16 @@ Attribution is appreciated but not required.
 - Fonts from [Google Fonts](https://fonts.google.com)
 - Placeholder images from [Picsum](https://picsum.photos)
 
+##  Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
