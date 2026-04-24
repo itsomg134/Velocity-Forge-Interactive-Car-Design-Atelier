@@ -1,6 +1,6 @@
 # Velocity Forge — Interactive Car Design Atelier
 
-![Preview](https://via.placeholder.com/1200x630/0a0c10/f97316?text=Velocity+Forge+Showcase)
+<img width="1897" height="3541" alt="image" src="https://github.com/user-attachments/assets/4166139f-0f72-40e8-a053-fbf57f74fae5" />
 
 > **Live configurator | Futuristic UI | Bespoke automotive design studio**
 
